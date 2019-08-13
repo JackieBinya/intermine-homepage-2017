@@ -1,4 +1,0 @@
-baseurl = "http://intermine.org"
-languageCode = "en-gb"
-title = "InterMine - data integration, analysis, and warehousing"
-publishDir = "docs"

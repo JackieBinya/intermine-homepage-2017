@@ -1,1 +1,0 @@
-{"title" : "InterMine's Projects"}
